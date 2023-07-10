@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color:gray;
+    height: 50px;
+    margin: 0px;
+}
+h2{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.contenedorPrincipal {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+
+
+#parte1 {
+    background-color: darkorange;
+    justify-content:center;
+    text-align:center;
+    margin-top: 1%;
+    width:400px;
+    height: 480px;
+    border-radius: 20px;
+    margin-left: 2rem;
+}
+#parte2 {
+    padding:30px;
+}
+.parrafo {
+    padding: 3%;
+    font-size: 18px;
+}
+
+#parte2 h2{
+    color: white;
+    font-size: 45px;
+    background-color: gray;
+    border-radius: 20px;
+} 
+
+#parte1 p{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+#seriesPeliculas {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+#seriesPeliculas h2{
+    color: white;
+    font-size: 30px;
+    background-color: gray;
+    border-radius: 10px;
+    
+}
+
+.tarjeta1 {
+    background-color: rgb(213, 213, 213);
+    border-radius: 20px;
+}
+
+.tarjeta2 {
+    background-color: rgb(213, 213, 213);
+    border-radius: 20px;
+}
+
+.tarjeta3 {
+    background-color: rgb(213, 213, 213);
+    border-radius: 20px;
+}
+
+.Hg {
+    color: white;
+    text-align: center;
+    background-color:darkorange;
+    height: 70px;
+
+}
+
+.formulario1 {
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 100px;
+}
