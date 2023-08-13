@@ -1,0 +1,144 @@
+/*
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titan One', cursive;
+*/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: white;
+    font-family: 'Titan One', cursive;
+    text-align: center;
+    font-size: 4rem;
+    background-color:#0a0a5f;
+    height: 80px;
+    margin: 0px;
+}
+h2{
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.contenedorPrincipal {
+    display: flex;
+    padding-bottom: 50px;
+}
+li {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+#parte1 {
+    background-color: #0a0a5f;
+    justify-content:center;
+    text-align:center;
+    margin-top: 1%;
+    width:400px;
+    height: 480px;
+    border-radius: 20px;
+    margin-left: 2rem;
+}
+#parte2 {
+    padding:30px;
+}
+.parrafo {
+    padding: 3%;
+    font-size: 18px;
+}
+
+#parte2 h2{
+    color: white;
+    font-size: 45px;
+    background-color: gray;
+    border-radius: 20px;
+} 
+
+#parte1 p{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+#seriesPeliculas {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+#seriesPeliculas h2{
+    color: white;
+    font-size: 30px;
+    background-color: gray;
+    border-radius: 10px;
+    
+}
+.iconos1 {
+    display: flex;
+    justify-content: center;
+    gap: 450px;
+    font-size: 4rem;
+    margin-bottom: 50px;
+    color:#0a0a5f;
+
+}
+
+.tarjeta1 {
+    color: white;
+    border-radius: 0px 0px 72px 73px;
+    -webkit-border-radius: 0px 0px 72px 73px;
+    -moz-border-radius: 0px 0px 72px 73px;
+    border: 4px solid #76756f;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(10,10,95,1) 67%);
+    box-shadow: 10px 20px 5px rgba(50, 50, 50, 0.881) ;
+}
+
+.tarjeta2 {
+    color: white;
+    border-radius: 0px 0px 72px 73px;
+    -webkit-border-radius: 0px 0px 72px 73px;
+    -moz-border-radius: 0px 0px 72px 73px;
+    border: 4px solid #76756f;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(10,10,95,1) 67%);
+    box-shadow: 10px 20px 5px rgba(50, 50, 50, 0.881) ;
+}
+
+
+.tarjeta3 {
+    color: white;
+    border-radius: 0px 0px 72px 73px;
+    -webkit-border-radius: 0px 0px 72px 73px;
+    -moz-border-radius: 0px 0px 72px 73px;
+    border: 4px solid #76756f;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(10,10,95,1) 67%);
+    box-shadow: 10px 20px 5px rgba(50, 50, 50, 0.881) ;
+}
+
+
+.Hg {
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    background-color:#0a0a5f;
+    height: 70px;
+
+}
+
+.formulario1 {
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 100px;
+}
