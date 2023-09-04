@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+h1 {
+  font-size: 42px;
+}
+
+textarea {
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#contador {
+  color: gray;
+  font-size: 30px;
+}
